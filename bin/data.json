@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Making a task tracker CLI application",
+      "description": "I have to make a task tracker CLI application to have a very strong knowledge in javascript as well as backend development.",
+      "status": "in-progress",
+      "createdAt": "2024-09-04T06:46:04.520Z"
+    },
+    {
+      "id": 2,
+      "title": "Going to roadmap.sh",
+      "description": "I have to go to roadmap.sh to learn about what I should do next with my CLI app.",
+      "status": "todo",
+      "createdAt": "2024-09-05T06:12:49.295Z"
+    },
+    {
+      "id": 3,
+      "title": "Completing the project",
+      "description": "I need to complete the CLI project because I have a very short time to complete it and submit it into roadmap.sh",
+      "status": "in-progress",
+      "createdAt": "2024-09-05T07:01:13.410Z"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 const fs = require("fs");
+
 var data = fs.readFileSync("./data.json");
 var data = JSON.parse(data);
 

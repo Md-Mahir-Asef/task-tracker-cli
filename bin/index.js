@@ -5,3 +5,4 @@ const args = process.argv;
 add(args);
 update(args);
 
+console.log("Task has done.");

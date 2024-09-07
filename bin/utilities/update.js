@@ -13,11 +13,7 @@ const update = (args) => {
       );
       process.exit(1);
     } else {
-      if (task == "first") {
-        id = data.tasks[0].id;
-      } else if (task == "last") {
-        id = data.tasks[data.tasks.length - 1].id;
-      } else if (typeof task == "number") {
+      if (typeof task == "number") {
         id = task;
       } else {
         console.log(
@@ -28,7 +24,6 @@ const update = (args) => {
     }
 
     for (let i = 0; i < data.tasks.length; i++) {
-      console.log(data.tasks[i].id, id);
 
       if (data.tasks[i].id == id) {
         var item = args[4];

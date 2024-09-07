@@ -4,7 +4,7 @@ var data = fs.readFileSync("./data.json");
 var data = JSON.parse(data);
 
 const add = (args) => {
-  if (args[2] == "add") {
+  if (args[2] == "add" || args[2] == "create") {
     const title = args[3] ? args[3] : "";
     const desc = args[4] ? args[4] : "";
     var status = args[5] ? args[5] : "N/A";

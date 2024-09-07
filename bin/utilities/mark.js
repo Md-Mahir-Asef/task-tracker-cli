@@ -34,11 +34,11 @@ const mark = (args) => {
         process.exit(0);
       }
     }
+    console.log(
+      "Please write the valid task's id which you are trying to update in the third argument."
+    );
+    process.exit(1);
   }
-  console.log(
-    "Please write the valid task's id which you are trying to update in the third argument."
-  );
-  process.exit(1);
 };
 
 module.exports = mark;

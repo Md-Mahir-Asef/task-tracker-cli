@@ -27,7 +27,14 @@
       "description": "I need to complete the CLI project because I have a very short time to complete it and submit it into roadmap.sh",
       "status": "in-progress",
       "createdAt": "2024-09-07T06:34:52.458Z"
+    },
+    {
+      "id": 4,
+      "title": "Completing my today's task.",
+      "description": "I have to complete my today's task right now",
+      "status": "done",
+      "createdAt": "2024-09-07T07:05:55.253Z"
     }
   ],
-  "id": [5, 4]
+  "id": [5]
 }

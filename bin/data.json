@@ -16,10 +16,18 @@
     },
     {
       "id": 3,
-      "title": "Completing the project",
+      "title": "Completing the CLI project",
       "description": "I need to complete the CLI project because I have a very short time to complete it and submit it into roadmap.sh",
       "status": "in-progress",
       "createdAt": "2024-09-05T07:01:13.410Z"
+    },
+    {
+      "id": 5,
+      "title": "Learn about gitHub copilot",
+      "description": "I have to learn about giiHub to be better in coding",
+      "status": "in-progress",
+      "createdAt": "2024-09-06T11:50:22.044Z"
     }
-  ]
+  ],
+  "id": 5
 }

@@ -14,8 +14,8 @@ const add = (args) =>{
             "You haven't given any valid status so your task's status is saved as \"N/A\". "
           );
         }
-      
-        const id = data.tasks[data.tasks.length - 1].id + 1;
+        data.id = data.id + 1;
+        const id = data.id;
         data.tasks[data.tasks.length] = {
           id: id,
           title: title,

@@ -11,7 +11,7 @@
       "id": 5,
       "title": "Learn about gitHub.",
       "description": "I have to learn about gitHub copilot to be better in coding",
-      "status": "in-progress",
+      "status": "todo",
       "createdAt": "2024-09-06T11:50:22.044Z"
     },
     {
@@ -25,7 +25,7 @@
       "id": 3,
       "title": "Making a CLI app",
       "description": "I need to complete the CLI project because I have a very short time to complete it and submit it into roadmap.sh",
-      "status": "N/A",
+      "status": "in-progress",
       "createdAt": "2024-09-07T06:34:52.458Z"
     }
   ],

@@ -22,6 +22,7 @@ const deleteTask = (args) => {
         process.exit(1);
       }
     }
+    
     for (let i = 0; i < data.tasks.length; i++) {
       if (data.tasks[i].id == id) {
         for(let j = i; j < data.tasks.length; j++){

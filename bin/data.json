@@ -1,1 +1,33 @@
-{"tasks":[{"id":1,"title":"Making a task tracker CLI application","description":"I have to make a task tracker CLI application to have a very strong knowledge in javascript as well as backend development.","status":"in-progress","createdAt":"2024-09-04T06:46:04.520Z"},{"id":2,"title":"Going to roadmap.sh","description":"I have to go to roadmap.sh to learn about what I should do next with my CLI app.","status":"todo","createdAt":"2024-09-05T06:12:49.295Z"},{"id":3,"title":"Completing the CLI project","description":"I need to complete the CLI project because I have a very short time to complete it and submit it into roadmap.sh","status":"in-progress","createdAt":"2024-09-05T07:01:13.410Z"},{"id":5,"title":"Learn about gitHub copilot","description":"I have to learn about gitHub copilot to be better in coding","status":"in-progress","createdAt":"2024-09-06T11:50:22.044Z"}],"id":5}
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Going to roadmap.sh",
+      "description": "I have to go to roadmap.sh to learn about what I should do next with my CLI app.",
+      "status": "todo",
+      "createdAt": "2024-09-05T06:12:49.295Z"
+    },
+    {
+      "id": 5,
+      "title": "Learn about gitHub.",
+      "description": "I have to learn about gitHub copilot to be better in coding",
+      "status": "in-progress",
+      "createdAt": "2024-09-06T11:50:22.044Z"
+    },
+    {
+      "id": 1,
+      "title": "Commit and push is changes",
+      "description": "I have to commit and push those changes which I have done in the add.js, update.js and delete.js file",
+      "status": "todo",
+      "createdAt": "2024-09-07T06:31:59.590Z"
+    },
+    {
+      "id": 3,
+      "title": "Making a CLI app",
+      "description": "I need to complete the CLI project because I have a very short time to complete it and submit it into roadmap.sh",
+      "status": "N/A",
+      "createdAt": "2024-09-07T06:34:52.458Z"
+    }
+  ],
+  "id": [5, 4]
+}

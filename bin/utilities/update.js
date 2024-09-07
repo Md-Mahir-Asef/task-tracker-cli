@@ -34,7 +34,7 @@ const update = (args) => {
         data.tasks[i][item] = value;
         fs.writeFileSync("./data.json", JSON.stringify(data));
         console.log("Your task is updated successfully!");
-        process.exit(1);
+        process.exit(0);
       }
     }
     console.log(

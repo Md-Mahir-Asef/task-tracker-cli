@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const add = require("./utilities/add");
 const update = require("./utilities/update");
 const deleteTask = require("./utilities/delete");
